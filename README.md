@@ -15,3 +15,10 @@ Notes:
 Tree set
 Bucket sort
 Fermet's little theoram for module inverse calculation
+
+
+File	LeetCode	Approach	Key Trick
+BestTimeToBuyAndSellStock.java	#121
+MoveZeroes.java	#283	
+RunningSum.java	#1480	
+SingleNumber.java	#136	
