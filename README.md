@@ -10,10 +10,10 @@
 - #242  - ValidAnagram                        - A
 - #49   - GroupAnagrams                       - A
 - #2514 - CountAnagrams                       - A
-- #121  - BestTimeToBuyAndSellStock           - S
-- #283  - MoveZeroes                          - S
-- #1480 - RunningSum                          - S
-- #136  - SingleNumber                        - S
+- #121  - BestTimeToBuyAndSellStock           - S|A
+- #283  - MoveZeroes                          - S|A
+- #1480 - RunningSum                          - S|A
+- #136  - SingleNumber                        - S|A
 
 
 
