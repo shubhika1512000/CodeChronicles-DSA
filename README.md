@@ -14,12 +14,16 @@
 - #283  - MoveZeroes                          - S|A
 - #1480 - RunningSum                          - S|A
 - #136  - SingleNumber                        - S|A
+- #347  - TopKFrequent Series                 - A
 
 
 
 # Notes:
 - Tree set
 - Bucket sort
+- Priority Queue
+- Deque I (doubly linked list, can be used as Queue, Stack)
+- Queue I
 - Fermet's little theoram for module inverse calculation
 
 
