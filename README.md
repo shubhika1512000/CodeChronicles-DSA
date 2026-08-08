@@ -4,7 +4,7 @@
 
 # Leetcode
 - #1    - TwoSum                              - A|S
-- #217  - ContainsDuplicate                   - A
+- #217  - ContainsDuplicate                   - A | S
 - #219  - ContainsNearbyDuplicate             - A
 - #220  - ContainsNearbyAlmostDuplicate       - A
 - #242  - ValidAnagram                        - A
@@ -14,7 +14,8 @@
 - #283  - MoveZeroes                          - S|A
 - #1480 - RunningSum                          - S|A
 - #136  - SingleNumber                        - S|A
-- #347  - TopKFrequent Series                 - A
+- #347  - TopKFrequent Series                 - A|
+- #287 -  Find the Duplicate Number           - S
 
 
 
