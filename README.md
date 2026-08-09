@@ -16,7 +16,7 @@
 - #136  - SingleNumber                        - S|A
 - #347  - TopKFrequent Series                 - A|
 - #287 -  FindDuplicate                       - S
-
+- #2   -  Add Two Numbers                      -S
 
 
 # Notes:
