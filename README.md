@@ -15,7 +15,7 @@
 - #1480 - RunningSum                          - S|A
 - #136  - SingleNumber                        - S|A
 - #347  - TopKFrequent Series                 - A|
-- #287 -  Find the Duplicate Number           - S
+- #287 -  FindDuplicate                       - S
 
 
 
