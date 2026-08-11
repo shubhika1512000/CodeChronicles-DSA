@@ -23,10 +23,15 @@
 - Tree set
 - Bucket sort
 - Priority Queue
-- Deque I (doubly linked list, can be used as Queue, Stack)
-- Queue I
+- Deque Interface (doubly linked list, can be used as Queue, Stack)
+- Queue Interface
 - Fermet's little theoram for module inverse calculation
 
+# Patterns
+- Fast-slow pointers
+- Monotonic stacks & queues
+- Two pointers
+- Sliding Window
 
 # Format
 *without spaces are java files : : [PROBLEM_NUMBER]  - [JavaFile] - A|S
