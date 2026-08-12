@@ -17,6 +17,7 @@
 - #347  - TopKFrequent Series                 - A|
 - #287 -  FindDuplicate                       - S
 - #2   -  Add Two Numbers                      -S
+- #9   - Palindrome                            -S
 
 
 # Notes:
