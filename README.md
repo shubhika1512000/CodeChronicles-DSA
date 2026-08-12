@@ -32,6 +32,7 @@
 - Monotonic stacks & queues
 - Two pointers
 - Sliding Window
+- Bit Manipulation
 
 # Format
 *without spaces are java files : : [PROBLEM_NUMBER]  - [JavaFile] - A|S
