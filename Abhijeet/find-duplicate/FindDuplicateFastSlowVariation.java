@@ -1,4 +1,4 @@
-class FindDuplicateFastSlow {
+class FindDuplicateFastSlowVariation {
     public int findDuplicate(int[] nums) {
         // Phase 1: Find intersection point
         int slow = 0, fast = 0;
