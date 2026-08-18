@@ -7,7 +7,7 @@
 - #217  - ContainsDuplicate                   - A|S
 - #219  - ContainsNearbyDuplicate             - A|S
 - #220  - ContainsNearbyAlmostDuplicate       - A
-- #242  - ValidAnagram                        - A
+- #242  - ValidAnagram                        - A | S
 - #49   - GroupAnagrams                       - A
 - #2514 - CountAnagrams                       - A
 - #121  - BestTimeToBuyAndSellStock           - S|A
