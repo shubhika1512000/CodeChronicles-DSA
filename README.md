@@ -19,15 +19,18 @@
 - #2512 - TopStudents                         - A
 - #287  - FindDuplicate                       - S|A
 - #2    - Add Two Numbers                     - S|A
-- #9    - Palindrome                          - S
+- #9    - Palindrome                          - S|A
 
 
 # Notes:
 - Tree set
-- Bucket sort
+- Tree map
+- Hash set
+- Hash map
 - Priority Queue
 - Deque Interface (doubly linked list, can be used as Queue, Stack)
 - Queue Interface
+- Bucket sort (List[] buckets)
 - Fermet's little theoram for module inverse calculation
 
 # Patterns
