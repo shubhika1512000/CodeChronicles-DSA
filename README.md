@@ -5,7 +5,7 @@
 # Leetcode
 - #1    - TwoSum                              - A|S
 - #217  - ContainsDuplicate                   - A|S
-- #219  - ContainsNearbyDuplicate             - A
+- #219  - ContainsNearbyDuplicate             - A|S
 - #220  - ContainsNearbyAlmostDuplicate       - A
 - #242  - ValidAnagram                        - A
 - #49   - GroupAnagrams                       - A
@@ -18,7 +18,7 @@
 - #692  - TopFrequentWords                    - A
 - #2512 - TopStudents                         - A
 - #287  - FindDuplicate                       - S|A
-- #2    - Add Two Numbers                     - S
+- #2    - Add Two Numbers                     - S|A
 - #9    - Palindrome                          - S
 
 
