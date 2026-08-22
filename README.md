@@ -20,6 +20,9 @@
 - #287  - FindDuplicate                       - S|A
 - #2    - Add Two Numbers                     - S|A
 - #9    - Palindrome                          - S|A
+- #42   - Trapping Rain Water                 -S
+- #14   — Longest Common Prefix               -S
+- #20   — Valid Parentheses                   -S
 
 
 # Notes:
