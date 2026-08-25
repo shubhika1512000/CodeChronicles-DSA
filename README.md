@@ -20,10 +20,13 @@
 - #287  - FindDuplicate                       - S|A
 - #2    - Add Two Numbers                     - S|A
 - #9    - Palindrome                          - S|A
-- #42   - Trapping Rain Water                 -S
-- #14   — Longest Common Prefix               -S
-- #20   — Valid Parentheses                   -S
-
+- #42   - Trapping Rain Water                 - S|A
+- #14   - Longest Common Prefix               - S|A
+- #20   - Valid Parentheses                   - S|A
+- #11   - MostWater                           - A
+- #365  - WaterJug                            - A
+- #128  - LongestConsecutiveSeq               - A
+- #238  - ProductExceptSelf                   - A
 
 # Notes:
 - Tree set
