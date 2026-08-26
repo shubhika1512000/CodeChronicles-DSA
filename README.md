@@ -26,7 +26,7 @@
 - #11   - MostWater                           - A
 - #365  - WaterJug                            - A
 - #128  - LongestConsecutiveSeq               - A
-- #238  - ProductExceptSelf                   - A
+- #238  - ProductExceptSelf                   - A | S
 
 # Notes:
 - Tree set
