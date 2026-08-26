@@ -27,6 +27,7 @@
 - #365  - WaterJug                            - A
 - #128  - LongestConsecutiveSeq               - A
 - #238  - ProductExceptSelf                   - A | S
+-# 53   - Maximum subarray                    -
 
 # Notes:
 - Tree set
