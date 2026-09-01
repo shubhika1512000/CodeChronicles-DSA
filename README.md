@@ -8,7 +8,7 @@
 - #219  - ContainsNearbyDuplicate             - A|S
 - #220  - ContainsNearbyAlmostDuplicate       - A
 - #242  - ValidAnagram                        - A | S
-- #49   - GroupAnagrams                       - A
+- #49   - GroupAnagrams                       - A|S
 - #2514 - CountAnagrams                       - A
 - #121  - BestTimeToBuyAndSellStock           - S|A
 - #283  - MoveZeroes                          - S|A
@@ -23,7 +23,7 @@
 - #42   - Trapping Rain Water                 - S|A
 - #14   - Longest Common Prefix               - S|A
 - #20   - Valid Parentheses                   - S|A
-- #11   - MostWater                           - A
+- #11   - MostWater                           - A|S
 - #365  - WaterJug                            - A
 - #128  - LongestConsecutiveSeq               - A
 - #238  - ProductExceptSelf                   - A | S
