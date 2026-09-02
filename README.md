@@ -7,7 +7,7 @@
 - #217  - ContainsDuplicate                   - A|S
 - #219  - ContainsNearbyDuplicate             - A|S
 - #220  - ContainsNearbyAlmostDuplicate       - A
-- #242  - ValidAnagram                        - A | S
+- #242  - ValidAnagram                        - A|S
 - #49   - GroupAnagrams                       - A|S
 - #2514 - CountAnagrams                       - A
 - #121  - BestTimeToBuyAndSellStock           - S|A
@@ -26,8 +26,8 @@
 - #11   - MostWater                           - A|S
 - #365  - WaterJug                            - A
 - #128  - LongestConsecutiveSeq               - A
-- #238  - ProductExceptSelf                   - A | S
-- #53   - Maximum subarray                    - S
+- #238  - ProductExceptSelf                   - A|S
+- #53   - Maximum subarray                    - S|A
 
 # Notes:
 - Tree set
