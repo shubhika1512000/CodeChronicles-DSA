@@ -24,8 +24,8 @@
 - #14   - Longest Common Prefix               - S|A
 - #20   - Valid Parentheses                   - S|A
 - #11   - MostWater                           - A|S
-- #365  - WaterJug                            - A
-- #128  - LongestConsecutiveSeq               - A
+- #365  - WaterJug                            - A|S
+- #128  - LongestConsecutiveSeq               - A|S
 - #238  - ProductExceptSelf                   - A|S
 - #53   - Maximum subarray                    - S|A
 
