@@ -28,7 +28,8 @@
 - #128  - LongestConsecutiveSeq               - A|S
 - #238  - ProductExceptSelf                   - A|S
 - #53   - Maximum subarray                    - S|A
-
+- #977 - Squares of a Sorted Array            - S
+-#4    -Median of Two Sorted Arrays.          -S
 # Notes:
 - Tree set
 - Tree map
