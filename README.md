@@ -9,7 +9,7 @@
 - #220  - ContainsNearbyAlmostDuplicate       - A
 - #242  - ValidAnagram                        - A|S
 - #49   - GroupAnagrams                       - A|S
-- #2514 - CountAnagrams                       - A
+- #2514 - CountAnagrams                       - A |S
 - #121  - BestTimeToBuyAndSellStock           - S|A
 - #283  - MoveZeroes                          - S|A
 - #1480 - RunningSum                          - S|A
@@ -28,8 +28,11 @@
 - #128  - LongestConsecutiveSeq               - A|S
 - #238  - ProductExceptSelf                   - A|S
 - #53   - Maximum subarray                    - S|A
-- #977 - Squares of a Sorted Array            - S
+- #977 - Squares of a Sorted Array            - S | A
 -#4    -Median of Two Sorted Arrays.          -S
+-#169: Majority Element (Boyer-Moore voting algorithm)-S
+- #268: Missing Number (expected sum - actual sum)-S
+-#344: Reverse String (two pointers)             -S
 # Notes:
 - Tree set
 - Tree map
