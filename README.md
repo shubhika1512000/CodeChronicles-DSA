@@ -1,6 +1,7 @@
 # CodeChronicles-DSA
 
 # Consistency over intensity—daily DSA practice.
+Kattis: https://open.kattis.com/problems (If you wanna try the platform)
 
 # Leetcode
 - #1    - TwoSum                              - A|S
