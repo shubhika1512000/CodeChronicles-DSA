@@ -35,6 +35,8 @@ Kattis: https://open.kattis.com/problems (If you wanna try the platform)
 - #268  - Missing Number (expected sum - actual sum)        - S
 - #344   - Reverse String (two pointers)                     - S
 - #453   - Minimum Moves to Equal Array Elements             - A
+- #462   - Minimum Moves to Equal Array Elements II          - A
+
 # Notes:
 - Tree set
 - Tree map
