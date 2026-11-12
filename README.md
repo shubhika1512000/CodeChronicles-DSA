@@ -30,13 +30,14 @@ Kattis: https://open.kattis.com/problems (If you wanna try the platform)
 - #238  - ProductExceptSelf                   - A|S
 - #53   - Maximum subarray                    - S|A
 - #977  - Squares of a Sorted Array           - S|A
-- #4     - Median of Two Sorted Arrays.                      - S
-- #169   - Majority Element (Boyer-Moore voting algorithm)   - S
-- #268  - Missing Number (expected sum - actual sum)         - S
-- #344   - Reverse String (two pointers)                     - S
-- #453   - Minimum Moves to Equal Array Elements             - A
-- #462   - Minimum Moves to Equal Array Elements II          - A
-- #3736  - Minimum Moves to Equal Array Elements III         - A
+- #4    - Median of Two Sorted Arrays.                      - S
+- #169  - Majority Element (Boyer-Moore voting algorithm)   - S
+- #268  - Missing Number (expected sum - actual sum)        - S
+- #344  - Reverse String (two pointers)                     - S
+- #453  - Minimum Moves to Equal Array Elements             - A
+- #462  - Minimum Moves to Equal Array Elements II          - A
+- #3736 - Minimum Moves to Equal Array Elements III         - A
+- #3105 - Longest Strictly Increasing or Strictly Decreasing Subarray  -A
 
 # Notes:
 - Tree set
