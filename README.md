@@ -38,6 +38,7 @@ Kattis: https://open.kattis.com/problems (If you wanna try the platform)
 - #462  - Minimum Moves to Equal Array Elements II          - A
 - #3736 - Minimum Moves to Equal Array Elements III         - A
 - #3105 - Longest Strictly Increasing or Strictly Decreasing Subarray  -A
+- #3364 - Minimum Positive Sum Subarray                     - A 
 
 # Notes:
 - Tree set
